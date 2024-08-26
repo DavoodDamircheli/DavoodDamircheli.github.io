@@ -57,14 +57,14 @@ In the area of variational inequality, I am interested in their applications bot
 I am also interested in the stochastic differential equation and Malliavin calculus. My research when I was a master's student was the numerical solution of stochastic differential equations with multi-point boundary value problems [SBVPs](https://link.springer.com/article/10.1007/s11075-016-0189-5). These families of SDEs have a broad application such as smoothing, maximum a posteriori estimation of trajectories of diffusions, wave motion in random media, stochastic optimal control, valuation of boundary-linked assets, and in the study of reciprocal processes. They also arise from the semi-discretization by Rothe’s method of stochastic partial differential equations that is another field that I have an interest in it. Indeed, we are interested in the numerical solution of SBVPs of the form 
 
 
-<figure>
-  <img src="/assets/images/ResearchFluid.png" alt="">
-  <figcaption style="text-align: justify"> Left: Velocity field and stress tensor component profiles from an Oldroyd-B fluid model. Center: Convergence through adaptive mesh refinements of the horizontal traction component of the solution. Right: An example of an adaptively refined mesh after five refinement steps. </figcaption>
-</figure>
-
-<p style="text-align: justify">
-Viscoelastic fluid models are commonly used in engineering to simulate blood and polymer melts.
-These models are well-known to very challenging both in simulation and in mathematical analysis.
-</p>
-
-
+<!-- <figure> -->
+<!--   <img src="/assets/images/ResearchFluid.png" alt=""> -->
+<!--   <figcaption style="text-align: justify"> Left: Velocity field and stress tensor component profiles from an Oldroyd-B fluid model. Center: Convergence through adaptive mesh refinements of the horizontal traction component of the solution. Right: An example of an adaptively refined mesh after five refinement steps. </figcaption> -->
+<!-- </figure> -->
+<!--  -->
+<!-- <p style="text-align: justify"> -->
+<!-- Viscoelastic fluid models are commonly used in engineering to simulate blood and polymer melts. -->
+<!-- These models are well-known to very challenging both in simulation and in mathematical analysis. -->
+<!-- </p> -->
+<!--  -->
+<!--  -->

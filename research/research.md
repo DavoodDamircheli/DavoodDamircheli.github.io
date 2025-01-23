@@ -8,11 +8,21 @@ toc: true
 toc_label: "Topic"
 toc_icon: "gear"
 ---
-## Granular media
+
+## periDem
+
+#### Granular media
 
 As part of a research initiative to understand granular media, the effect of particle shapes on the mechanical response of the aggregate has been studied, capturing the damage of individual grains using peridynamics. Regarding the work on 3D simulations, three-dimensional axisymmetric problems have been considered, where the geometry and deformation fields are symmetric about an axis. This is an important class of problems in solid mechanics where the symmetry can be exploited to reduce computational cost.
+
 A two-dimensional model that exactly represents the full 3D axisymmetric linear peridynamic model has been derived by incorporating out-of-plane bond forces into the representative 2D plane. This approach allows for a substantial reduction in the computational cost compared to the full 3D simulation. 
-## PeriDEM
+
+![img](video/400-grain.gif)
+![img](video/2250-grain.gif)
+
+#### Settling down particles under gravity
+
+- The dynamic settling of particle
 
 ![img](video/sphere_gravity.gif)
 

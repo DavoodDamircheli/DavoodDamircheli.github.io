@@ -12,6 +12,10 @@ toc_icon: "gear"
 
 As part of a research initiative to understand granular media, the effect of particle shapes on the mechanical response of the aggregate has been studied, capturing the damage of individual grains using peridynamics. Regarding the work on 3D simulations, three-dimensional axisymmetric problems have been considered, where the geometry and deformation fields are symmetric about an axis. This is an important class of problems in solid mechanics where the symmetry can be exploited to reduce computational cost.
 A two-dimensional model that exactly represents the full 3D axisymmetric linear peridynamic model has been derived by incorporating out-of-plane bond forces into the representative 2D plane. This approach allows for a substantial reduction in the computational cost compared to the full 3D simulation. 
+## PeriDEM
+
+![img](/assets/videos/sphere_gravity.mp4)
+
 ## Mechanic of fracture
 iThe classical approach to studying solid material deformation treats materials as a continuum, modeling displacements using the Cauchy Momentum equation. However, this fails to capture material behavior when deformation fields are non-differentiable, such as at fracture points.
 Peridynamics, introduced by Stewart Silling in 2000, addresses this limitation by modeling material points as interacting via bond forces and using an integral equation, accommodating discontinuous deformations like cracks. Peridynamics has been used to model crack formation and branching in various fracture problems.

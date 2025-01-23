@@ -24,6 +24,8 @@ codekit-config.json
 # macOS
 .DS_Store
 
+
+/research/video/*.mp4
 # Jekyll generated files
 .jekyll-cache
 .jekyll-metadata

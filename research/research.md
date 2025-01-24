@@ -17,14 +17,14 @@ As part of a research initiative to understand granular media, the effect of par
 
 A two-dimensional model that exactly represents the full 3D axisymmetric linear peridynamic model has been derived by incorporating out-of-plane bond forces into the representative 2D plane. This approach allows for a substantial reduction in the computational cost compared to the full 3D simulation. 
 
-![img](video/400-grain.gif)
-![img](video/2250-grain.gif)
+![img](video/smaller_400-grain.gif)
+![img](video/smaller_2250-grain.gif)
 
 #### Settling down particles under gravity
 
 - The dynamic settling of particle
 
-![img](video/sphere_gravity.gif)
+![img](video/smaller_sphere_gravity.gif)
 
 ## Mechanic of fracture
 iThe classical approach to studying solid material deformation treats materials as a continuum, modeling displacements using the Cauchy Momentum equation. However, this fails to capture material behavior when deformation fields are non-differentiable, such as at fracture points.

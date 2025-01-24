@@ -18,6 +18,9 @@ As part of a research initiative to understand granular media, the effect of par
 A two-dimensional model that exactly represents the full 3D axisymmetric linear peridynamic model has been derived by incorporating out-of-plane bond forces into the representative 2D plane. This approach allows for a substantial reduction in the computational cost compared to the full 3D simulation. 
 
 ![img](video/smaller_400-grain.gif)
+
+
+
 ![img](video/smaller_2250-grain.gif)
 
 #### Settling down particles under gravity
@@ -31,6 +34,7 @@ iThe classical approach to studying solid material deformation treats materials 
 Peridynamics, introduced by Stewart Silling in 2000, addresses this limitation by modeling material points as interacting via bond forces and using an integral equation, accommodating discontinuous deformations like cracks. Peridynamics has been used to model crack formation and branching in various fracture problems.
 
 
+![img](video/smaller_kalthof.gif)
 ## Quantitative finance 
 
 

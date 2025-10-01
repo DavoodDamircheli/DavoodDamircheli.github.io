@@ -3,7 +3,7 @@ title: "About"
 layout: splash#archive
 sitemap: true
 permalink: /Home/
-author_profile: true
+author_profile:false
 ---
 
 

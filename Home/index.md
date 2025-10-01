@@ -1,8 +1,8 @@
 ---
 title: "About"
-layout: archive
+layout: splash#archive
 sitemap: true
-permalink: /Home/ 
+permalink: /Home/
 author_profile: true
 ---
 
@@ -10,16 +10,16 @@ author_profile: true
 <p style="display: flex; align-items: flex-start;text-align: justify;flex-direction: row-reverse">
   <img src="/assets/img/2.jpeg" alt="Your description" style="width: 40%; margin-left: 20px;">
   <span style="flex: 1;">
-    I am a researcher at Louisiana State University. 
+    I am a researcher at Louisiana State University.
 <br>
 My research focuses on the mathematics of materials, numerical methods for partial differential equations (PDEs), scientific machine learning, and financial mathematics.
   </span>
 </p>
 
 <p style="margin-top: 20px;">
-  <strong>Short Bio:</strong> 
-I began my postdoctoral research in Applied Mathematics at Louisiana State University in 2023. Prior to this, I completed two Ph.D. programs at Mississippi State University: 
-one in Engineering at <a href="https://www.hpc.msstate.edu/">The High Performance Computing Center </a> in 2022, 
+  <strong>Short Bio:</strong>
+I began my postdoctoral research in Applied Mathematics at Louisiana State University in 2023. Prior to this, I completed two Ph.D. programs at Mississippi State University:
+one in Engineering at <a href="https://www.hpc.msstate.edu/">The High Performance Computing Center </a> in 2022,
 and another in Applied Mathematics at  <a href="https://www.math.msstate.edu/">the Mathematics Department </a>the Mathematics Department in 2024.
 </p>
 
@@ -65,5 +65,4 @@ and another in Applied Mathematics at  <a href="https://www.math.msstate.edu/">t
 <!-- **OVPR Seed Award (Brown Internal)&nbsp;&nbsp;2023**&nbsp;&nbsp; Data-Driven High-Order Accurate Fail-Safe Neural Topology Optimization for Plastic Deformation and Fracture -->
 <!-- \ -->
 <!-- **LLNL LDRD&nbsp;&nbsp;2022&ndash;2024**&nbsp;&nbsp; Adaptive Sampling for Risk-Averse Design and Optimization -->
-<!-- (PI, *$450,000/year*) --> 
-
+<!-- (PI, *$450,000/year*) -->

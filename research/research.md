@@ -17,24 +17,40 @@ As part of a research initiative to understand granular media, the effect of par
 
 A two-dimensional model that exactly represents the full 3D axisymmetric linear peridynamic model has been derived by incorporating out-of-plane bond forces into the representative 2D plane. This approach allows for a substantial reduction in the computational cost compared to the full 3D simulation.
 
-![img](video/smaller_400-grain.gif)
+<figure class="align-center">
+  <img src="/research/video/smaller_400-grain.gif" alt="Peridynamic simulation of 400 granular particles">
+  <figcaption>Peridynamic simulation of a 400-grain aggregate, capturing damage of individual grains under load.</figcaption>
+</figure>
 
-
-
-![img](video/smaller_2250-grain.gif)
+<figure class="align-center">
+  <img src="/research/video/smaller_2250-grain.gif" alt="Peridynamic simulation of 2250 granular particles">
+  <figcaption>A larger 2250-grain aggregate, showing how particle shape governs the collective mechanical response.</figcaption>
+</figure>
 
 #### Settling down particles under gravity
 
 - The dynamic settling of particle
 
-![img](video/smaller_sphere_gravity.gif)
+<figure class="align-center">
+  <img src="/research/video/smaller_sphere_gravity.gif" alt="Spherical particles settling under gravity">
+  <figcaption>Dynamic settling of spherical particles under gravity.</figcaption>
+</figure>
 
 ### Mechanic of fracture
-iThe classical approach to studying solid material deformation treats materials as a continuum, modeling displacements using the Cauchy Momentum equation. However, this fails to capture material behavior when deformation fields are non-differentiable, such as at fracture points.
+The classical approach to studying solid material deformation treats materials as a continuum, modeling displacements using the Cauchy Momentum equation. However, this fails to capture material behavior when deformation fields are non-differentiable, such as at fracture points.
 Peridynamics, introduced by Stewart Silling in 2000, addresses this limitation by modeling material points as interacting via bond forces and using an integral equation, accommodating discontinuous deformations like cracks. Peridynamics has been used to model crack formation and branching in various fracture problems.
 
 
-![img](video/smaller_kalthof.gif)
+<figure class="align-center">
+  <img src="/research/video/smaller_kalthof.gif" alt="Kalthoff-Winkler crack branching simulation">
+  <figcaption>Peridynamic simulation of the Kalthoff–Winkler experiment, reproducing crack initiation and branching.</figcaption>
+</figure>
+
+<figure class="align-center">
+  <img src="/assets/img/dynamicCrack-damage.png" alt="Dynamic crack damage field">
+  <figcaption>Damage field from a dynamic crack-propagation simulation (converted from the original PDF figure).</figcaption>
+</figure>
+
 ### Quantitative finance
 
 

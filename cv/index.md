@@ -6,7 +6,7 @@ title: cv
 
 {% include math.html %} 
 
-**CV in PDF format:** [Download](../content/CV_DavoodDamircheli.pdf)
+**CV in PDF format:** [Download](../content/Damircheli_Curriculum_Vitae_2026_2027.pdf)
 
 ---
 
@@ -165,4 +165,4 @@ Baton Rouge LA 70803-4918
 
 --- 
 
-**CV in PDF format:** [Download](../content/CV_DavoodDamircheli.pdf)
+**CV in PDF format:** [Download](../content/Damircheli_Curriculum_Vitae_2026_2027.pdf)
